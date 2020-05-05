@@ -261,14 +261,14 @@ export default {
         },
         async register() {
             this.loading = true;
-            const params = {
-                firstname: this.registerInfo.firstname,
-                lastname: this.registerInfo.lastname ,
-                phoneNumber: this.registerInfo.phoneNumber,
-                email: this.registerInfo.email,
-            };
-            const response = await axios.post('/register', null, {params});
-            console.log(response);
+            // const params = {
+            //     firstname: this.registerInfo.firstname,
+            //     lastname: this.registerInfo.lastname ,
+            //     phoneNumber: this.registerInfo.phoneNumber,
+            //     email: this.registerInfo.email,
+            // };
+            // const response = await axios.post('/register', null, {params});
+            // console.log(response);
             this.$router.push('/Success');
         },
     },
