@@ -325,9 +325,6 @@ export default {
 
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
-#app{
-    font-family: 'Nunito',sans-serif;
-}
 h2{
     font-size: 40px;
     position: absolute;

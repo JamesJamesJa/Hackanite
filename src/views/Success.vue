@@ -22,6 +22,6 @@ export default {
   align-items: center;
   font-size: 2vw;
   color:aliceblue;
-  background-image: linear-gradient( 70.5deg,  rgba(248,196,249,0.66) 22.8%, rgba(4, 195, 253, 0.233) 64.6% );
+  background-image: linear-gradient(to bottom right, rgba(248, 196, 249, 0.89) , rgba(4, 195, 253, 0.233));
 }
 </style>
