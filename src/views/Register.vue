@@ -11,7 +11,7 @@
                     <v-row><v-col cols="12"></v-col></v-row>
                     <v-row>
                         <v-col cols="2"></v-col>
-                        <v-col cols="8"><h2>Donor Register</h2></v-col>
+                        <v-col cols="8"><h2>Register</h2></v-col>
                         <v-col cols="2"></v-col>
                     </v-row>
 
